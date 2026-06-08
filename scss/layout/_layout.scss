@@ -4,18 +4,10 @@
 @use "../foundation/foundation";
 
 .l-header{
-    grid-area: head;
-    position: fixed;
-    top: 0;
-    left: 0;
     width: 100%;
     height: 217px;
     z-index: foundation.$z-header;
     background-color: foundation.$color-background-header;
-
-    @include foundation.breakpoint(pc){
-        width: 80.8%;
-    }
 }
 
 .l-main{
