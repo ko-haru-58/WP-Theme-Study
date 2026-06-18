@@ -5,8 +5,7 @@ License: GNU General Public License v2.0 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-プログラミングスクール「Raise Tech」の、WordPress副業コースの課題で制作したテーマです。
-ハンバーガーショップ用のデザインで、商品に関する記事を投稿しメニュー一覧を作成することができます。
+デモサイトです。
 
 == Installation ==
 1. このテーマフォルダ「rt-hamburger」を `wp-content/themes/` に配置します。
